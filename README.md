@@ -15,7 +15,7 @@ A simple and responsive weather application built using **React**. This app fetc
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React (with Vite or CRA)
+- **Frontend**: React (with Vite)
 - **HTTP Client**: Axios / Fetch API
-- **Styling**: CSS / Tailwind CSS / Bootstrap
+- **Styling**: CSS / Bootstrap
 - **API**: [OpenWeatherMap API](https://openweathermap.org/api)
